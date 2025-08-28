@@ -55,20 +55,7 @@ ex:筆電
 
 ##  範例輸出
 
-```text
-      商品名稱          價格                           連結
-0  ASUS 筆電 XXX    19900  https://24h.pchome.com.tw/prod/ABC123
-1  ACER 筆電 YYY    23900  https://24h.pchome.com.tw/prod/DEF456
-...
-```
-
-輸出的 CSV：
-
-```
-筆電_pchome.csv
-```
-
----
+![PChome 查價範例](assets/pchome-price-crawler.jpg)
 
 ##  授權
 
